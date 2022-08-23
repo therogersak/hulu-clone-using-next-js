@@ -28,6 +28,7 @@ function Header() {
               width={100}
               height={80}
               objectFit="contain"
+              alt="logo"
             />
           </div>
         </div>
